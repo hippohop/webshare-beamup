@@ -5,8 +5,7 @@
     "beamup": "./bin/index.js"
   },
   "scripts": {
-    "start": "node ./bin/index.js",
-    "build": "pkg ."
+    "start": "node ./bin/index.js"
   },
   "pkg": {
     "targets": [
